@@ -1,0 +1,41 @@
+{
+  "homepage": {
+    "title": "The Egyptian Peacekeeping Operations Training Center (EPOTC)",
+    "subtitle": "Enhancing Global Peacekeeping and Peacebuilding Efforts",
+    "main_operations": {
+      "heading": "Main Operations",
+      "content": "The center undertakes several key missions, including: preparing and training national and international cadres for peacekeeping missions, organizing activities such as training courses, seminars, and workshops in collaboration with national entities and international organizations, and conducting research to address challenges faced in peacekeeping operations."
+    },
+    "mission": {
+      "heading": "Our Mission",
+      "content": "To provide specialized training, research, and programs for peacekeepers, enhancing their contributions to global peacekeeping efforts and adapting to evolving field requirements."
+    },
+    "task": {
+      "heading": "Our Tasks",
+      "content": "The center is dedicated to preparing national and international male and female personnel for effective participation in peacekeeping missions. Additionally, it supports capacity-building initiatives, promotes gender inclusion in peacekeeping, and fosters partnerships with national and international organizations."
+    },
+    "training_topics": {
+      "heading": "Training Topics",
+      "content": [
+        "Qualifying police personnel for peacekeeping operations.",
+        "Protecting civilians during armed conflicts.",
+        "Disarmament, Demobilization, and Reintegration (DDR) of ex-combatants.",
+        "Capacity building for local police in mission host countries.",
+        "Analyzing political and ethnic conflicts and mediating solutions.",
+        "Preventing radicalization and terrorism.",
+        "Monitoring elections in host countries.",
+        "Reforming and securing correctional institutions.",
+        "Countering illegal immigration, human trafficking, and transnational crime.",
+        "Qualifying female personnel for peacekeeping roles.",
+        "Detecting improvised explosive devices (IEDs).",
+        "Providing first aid in police operations."
+      ]
+    },
+    "app_download": {
+      "message": "Download the EPOTC App to stay updated!",
+      "button_text": "Download Now"
+    }
+
+   
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "Home": "Accueil",
+  "About Us": "À propos de nous",
+  "News & Events": "Actualités et événements",
+  "Gallery": "Galerie",
+  "Contact Us": "Contactez-nous",
+  "Welcome to EPOTC.com !": "Bienvenue sur EPOTC.com !",
+  "Facts and Statistics": "Faits et statistiques",
+  "Partnership": "Partenariats",
+  "News": "Actualités",
+  "Events": "Événements",
+  "All Photos": "Toutes les photos",
+  "Videos": "Vidéos",
+  "Follow Us": "Suivez-nous",
+  "EPOTC": "Centre Égyptien de Formation aux Opérations de Maintien de la Paix",
+  "Support": "Soutien",
+  "Highlights" : "Points forts" ,
+  "Our Partners" : "Nos partenaires",
+  "Our Photos" : "Nos photos",
+  "Our Videos" : "Nos vidéos",
+  "Explore our latest partnerships" : "Explorez nos partenariats",
+  "Explore our latest photos" : "Explorez nos photos",
+  "Explore our latest videos about peacekeeping operations and training" : "Explorez nos vidéos sur les opérations de maintien de la paix et la formation",
+  "@ Copy Rights Ministry of internals 2025 | All rights reserved": "@Copy Right Ministère des internautes 2025 | Tous droits reservés",
+"Latest News" : "Actualités",
+
+"What is The Egyptian Peacekeeping Operations Training Center ?":" Le Centre égyptien de Formation aux Opérations de Maintien de la Paix",
+
+
+
+  "Egypt is keen on enhancing a sustained approach to maintain global peace and security, promoting peace and addressing the scourge of wars, armed conflicts, violence and terrorism. The Ministry of Interior established the Egyptian Peacekeeping Operations Training Center (EPOTC) in Police Academy to qualify Police personnel for effective contribution in peacekeeping and peacebuilding in conflict zones as an approach towards the global humanitarian role of peacekeepers": "L'Égypte tient à promouvoir une approche durable pour maintenir la paix et la sécurité mondiales, promouvoir la paix et lutter contre les fléaux des guerres, des conflits armés, de la violence et du terrorisme. Le ministère de l'Intérieur a établi le Centre égyptien de formation aux opérations de maintien de la paix (EPOTC) à l'Académie de police pour qualifier le personnel de police afin qu'il contribue efficacement au maintien et à la consolidation de la paix dans les zones de conflit, dans le cadre du rôle humanitaire mondial des casques bleus.",
+
+  "Mission": "Mission",
+
+  "To conduct training, studies, research and specialized programs for peacekeepers in all aspects of peacekeeping operations in order to improve the effectiveness of their contributions and cope with the evolving field requirements.": "Conduire des formations, des études, des recherches et des programmes spécialisés pour les casques bleus dans tous les aspects des opérations de maintien de la paix afin d'améliorer l'efficacité de leurs contributions et de répondre aux exigences évolutives du terrain.",
+
+  
+    "Task": "Tâches",
+    "The center carries out the following missions : Preparing and training national and international cadres to work in peacekeeping missions and providing full support to both male and female participants interested in joining. Organizing various activities (training courses, seminars, conferences, workshops, etc.) in coordination with national entities, friendly countries, and organizations (international and regional) to enhance the role of police components in peacekeeping operations. Conducting studies and research related to all aspects of UN mission operations, reviewing the challenges faced by participants, and exploring ways to overcome them. Collaborating in training and exchanging expertise with similar entities (internationally, regionally, and locally) to enhance the performance of UN personnel.": "Le centre est dédié à la préparation et à la formation des cadres nationaux et internationaux masculins et féminins pour une participation efficace aux opérations de maintien de la paixIl soutient également des initiatives de développement des capacités, promeut l'inclusion de la diversité dans les opérations de maintien de la paix et favorise les partenariats avec des organisations nationales et internationales."
+  ,
+
+  "Training Topics": "Thèmes de formation",
+
+
+
+
+
+  "trainingTopicsTitle": "Sujets de formation",
+  "EPOTC conducts peacekeeping training, studies and research, as follows: • Qualifying police personnel for participating in Peacekeeping operations. • Protection of Civilians in armed conflicts. • Disarmament, Demobilization and Reintegration (DDR) of (ex-combatants/fighters) at mission host countries. • Capacity building of local police at mission host countries. • Political and ethnic conflict analysis and mediation. • Preventing radicalization and extremism leading to terrorism. • Monitoring elections at mission host countries. • Correctional institutions reform and security. • Countering illegal immigration, human trafficking, and transnational organized crime. • Qualifying female personnel for participating in Peacekeeping operations. • Improvised Explosive Devices (IEDs) detection. • First aid in police operations.": "Le centre conduit des formations, des études et des recherches sur les opérations de maintien de la paix, y compris : Qualification du personnel de police pour participer aux opérations de maintien de la paix. Protection des civils dans les conflits armés. Désarmement, démobilisation et réintégration des anciens combattants. Renforcement des capacités des forces de police locales dans les pays hôtes des missions. Analyse des conflits politiques et ethniques et médiation. Prévention de la radicalisation et de l'extrémisme conduisant au terrorisme. Surveillance des élections dans les pays hôtes des missions. Réforme et sécurité des institutions correctionnelles. Lutte contre l'immigration illégale, la traite des êtres humains et le crime organisé transnational. Qualification des femmes pour participer aux opérations de maintien de la paix. Détection des engins explosifs improvisés. Premiers secours dans les opérations policière.",
+  
+  
+  
+  
+  
+  
+  "homepage": {
+    "title": "Centre Égyptien de Formation aux Opérations de Maintien de la Paix",
+    "subtitle": "Une contribution efficace à la paix et à la sécurité mondiales",
+    "missionTitle": "Mission",
+    "missionText": "Conduire des formations, des études, des recherches et des programmes spécialisés pour les casques bleus dans tous les aspects des opérations de maintien de la paix afin d'améliorer l'efficacité de leurs contributions et de répondre aux exigences évolutives du terrain.",
+    "taskTitle": "Tâches",
+    "taskText": "Le centre exécute les tâches suivantes : Préparer et former des cadres nationaux et internationaux à travailler dans les missions de maintien de la paix et offrir un soutien complet aux participants hommes et femmes. Organiser diverses activités (cours de formation, séminaires, conférences, ateliers, etc.) en coordination avec des entités nationales, des pays amis et des organisations (internationales et régionales) pour renforcer le rôle des composantes policières dans les opérations de maintien de la paix. Mener des études et des recherches liées à tous les aspects des opérations des missions de l'ONU, examiner les défis rencontrés par les participants et explorer les moyens de les surmonter. Collaborer dans la formation et l'échange d'expertise avec des entités similaires (internationales, régionales et locales) pour améliorer la performance du personnel de l'ONU.",
+    "trainingTopicsTitle": "Sujets de formation",
+    "trainingTopicsText": "Le centre conduit des formations, des études et des recherches sur les opérations de maintien de la paix, y compris : Qualification du personnel de police pour participer aux opérations de maintien de la paix. Protection des civils dans les conflits armés. Désarmement, démobilisation et réintégration des anciens combattants. Renforcement des capacités des forces de police locales dans les pays hôtes des missions. Analyse des conflits politiques et ethniques et médiation. Prévention de la radicalisation et de l'extrémisme conduisant au terrorisme. Surveillance des élections dans les pays hôtes des missions. Réforme et sécurité des institutions correctionnelles. Lutte contre l'immigration illégale, la traite des êtres humains et le crime organisé transnational. Qualification des femmes pour participer aux opérations de maintien de la paix. Détection des engins explosifs improvisés. Premiers secours dans les opérations policières.",
+    "downloadApp": "Téléchargez l'application EPOTC pour suivre les mises à jour !"
+  }
+}
