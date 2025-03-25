@@ -47,8 +47,8 @@ router.post("/adding-topic", verifyToken, upload.single("image"), async (req: Au
 
     const newTopic = await prisma.topic.create({
       data: {
-        title: title as Record<string, string>,
-        paragraph: paragraph as Record<string, string>,
+        title: JSON.stringify(title),
+        paragraph: JSON.stringify(paragraph),
         image,
         youtubeLink,
         user: { connect: { email: req.email } }
@@ -147,8 +147,8 @@ router.put("/update-topic/:id", verifyToken, upload.single("image"), async (req:
     const updatedTopic = await prisma.topic.update({
       where: { id },
       data: {
-        title: title as Record<string, string>,
-        paragraph: paragraph as Record<string, string>,
+        title: JSON.stringify(title),
+        paragraph: JSON.stringify(paragraph),
         image,
         youtubeLink
       }

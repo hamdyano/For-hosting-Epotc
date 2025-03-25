@@ -32,7 +32,7 @@ router.post("/add-video", verifyToken, async (req: AuthenticatedRequest, res: Re
 
     const newVideo = await prisma.video.create({
       data: {
-        title: title as Record<string, string>,
+        title: JSON.stringify(title),
         youtubeLink,
         user: { connect: { email: req.email } }
       }

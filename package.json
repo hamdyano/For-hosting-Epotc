@@ -1,8 +1,7 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "main": "./dist/index.js",  
-
+  "main": "./dist/index.js",
   "scripts": {
     "dev": "nodemon",
     "build": "cd frontend && npm install && npm run build && cd .. && tsc",
